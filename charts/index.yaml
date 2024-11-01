@@ -8,7 +8,7 @@ entries:
           description: upgrade app version to 0.3.14
     apiVersion: v2
     appVersion: 0.3.14
-    created: "2024-11-01T15:52:20.3547+01:00"
+    created: "2024-11-01T15:54:50.902309+01:00"
     description: Get up and running with large language models locally.
     digest: 2001ece9d5ccb9f9eeba72bfaa6c8aea8e33cdc83aa0d20f99c1cdd849c6915e
     home: https://ollama.ai/
@@ -35,7 +35,7 @@ entries:
       licenses: MIT
     apiVersion: v2
     appVersion: 0.3.35
-    created: "2024-11-01T15:52:20.357187+01:00"
+    created: "2024-11-01T15:54:50.904469+01:00"
     dependencies:
     - condition: ollama.enabled
       import-values:
@@ -74,7 +74,7 @@ entries:
       licenses: MIT
     apiVersion: v2
     appVersion: alpha
-    created: "2024-11-01T15:52:20.357657+01:00"
+    created: "2024-11-01T15:54:50.904864+01:00"
     description: 'Pipelines: UI-Agnostic OpenAI API Plugin Framework'
     digest: ab13acb3869193ec3fcdea3c0ff59e5ef85d997322bd7b2444cdbfce998709cc
     home: https://github.com/open-webui/pipelines
@@ -90,4 +90,4 @@ entries:
     urls:
     - https://mbtraore.github.io/llm1-helm-charts/pipelines-0.0.4.tgz
     version: 0.0.4
-generated: "2024-11-01T15:52:20.351984+01:00"
+generated: "2024-11-01T15:54:50.901069+01:00"
